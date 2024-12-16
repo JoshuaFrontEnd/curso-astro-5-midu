@@ -1,7 +1,7 @@
 ---
 title: Refactoring
 author: Martin Fowler
-img: refactoring.jpg
+img: refactoring.webp
 readtime: 355
 description: Buenas prácticas para refactorizar código
 buy:

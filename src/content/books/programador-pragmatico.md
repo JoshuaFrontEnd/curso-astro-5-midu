@@ -1,7 +1,7 @@
 ---
 title: Programador Pragmatico
 author: Marco de Paula
-img: programador-pragmatico.jpg
+img: programador-pragmatico.webp
 readtime: 344
 description: Un libro clásico para mejorar en programación
 buy:
