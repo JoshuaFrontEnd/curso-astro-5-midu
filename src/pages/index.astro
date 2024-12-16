@@ -1,11 +1,17 @@
 ---
 import Layout from '../layouts/Layout.astro';
+import { getCollection } from 'astro:content';
+
+const books = await getCollection('books');
+console.log(books);
 ---
 
-<Layout title="Welcome to Astro.">
+<Layout title="Dev Books, libros para programadores">
   <main>
     <h1 class="text-center text-7xl font-extrabold">
       Dev 👨‍💻 <span class="block">Books</span>
     </h1>
   </main>
+
+  <section></section>
 </Layout>
